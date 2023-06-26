@@ -57,8 +57,11 @@ The following API endpoints are available:
 
 ## Contributing
 Stackoverflow was a huge help with api endpoints and .env problems
+
 https://stackoverflow.com/questions/2122604/what-is-an-endpoint
+
 https://stackoverflow.com/questions/60522667/storing-as-password-in-env-file
+
 I no longer have all the links I refrenced
 
 Contributions are welcome! If you have any suggestions or find any bugs, please open an issue.
