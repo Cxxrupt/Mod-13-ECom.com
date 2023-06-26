@@ -1,4 +1,4 @@
-# Ship-Shape E-commerce Backend
+# Ecom.com 
 
 This repository contains the backend for an e-commerce application. It provides API endpoints for managing products, categories, and tags. The backend is built using Node.js, Express.js, MySQL, and the Sequelize ORM.
 
